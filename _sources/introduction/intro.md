@@ -1,31 +1,41 @@
 # Intro 
 
 
-In the first block of this course we will focus on X
+In the first block of this course we will focus on the basic knowledge that we'll have to cultivate to a.) gain an understanding of the concept of intelligence and b.) understand the commonly employed methods in neuroscientific research. This will prepare us for the coming content blocks 2 and 3.
 
-## Objectives 📍
+
+
+## Goals 📍
 - Learn about X
     - What?
     - How?
  
-- get the necessary software  
 - Ask and answer questions
 
 
-## Prerequisities
-
-- list prerequisities
-- refer back to setup page
 
 ## Materials 
 
 
+Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
+
+- Chapter 1: Defining and Measuring Intelligence
+- mind. 1 Frage zum Text vorbereiten o. 1-Satz Kritik am verwendeten Intelligenzbegriff
+
+
+Haier, R. J. (2017). The neuroscience of intelligence. Cambridge University Press.
+
+- Chapter 1: What We Know About Intelligence From the Weight of Studies
+
+
+
 ## Schedule
 
-Please see below for our current optimistic schedule. Depending on our progress, potential problems and different forms of learning, content and times might change a bit. Each lecture will be divided into several parts separated by a 5-10 minute break and might constitute a transition from basic to advanced concepts, theoretic to practical sessions and individual to group work. The different parts are roughly indicated in the schedule below like this:
-
-
-
-| Date (day/month/year) 🗓         | Topic   | Assignment / deadline |
+| Date (day/month/year) 🗓         | Topic   | Assignment / deadline | Presenters
 |--------------|-----------|------------|
-| 28/10/2022 | Introduction I - course information & setup  | /not applicable |
+| 13/04/2023 | Introduction I - course information | /not applicable | M.E |
+| 20/04/2023 | Introduction II - Defining and measuring Intelligence | /not applicable | M.E |
+| 27/04/2023 | Introduction III - Methoden der Intelligenzforschung in der Neurowissenschaft | /not applicable | M.E |
+
+
+## Additional materials

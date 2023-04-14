@@ -6,23 +6,21 @@ Within the first session we'll spend a fair amount of time on X
 
 In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session.
 
-### Block overview/setup/outline
+## Block overview/setup/outline
 
 
 
-#### Objectives 📍
-- Get to know each other
+## Objectives 📍
 - Provide general information about X
-- get the necessary stuff  
 - Ask and answer questions
 - Have a great time
 
-#### concepts and skills
+## concepts and skills
 
 what are students gonna learn?
 
-#### Materials
 
+## Materials
 
 
 ## Project related work
