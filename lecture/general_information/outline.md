@@ -16,8 +16,8 @@ Please see below for our current optimistic schedule. Depending on our progress,
 **Please note** that the optimistic schedule below may be subject to change, dependent on time constraints and progress made in the previous meetings. Assignment deadlines represent when the group of students presenting on a topic should hand in their summaries and have had their strategy meeting with their instructors.   
 
 
-| Date (day/month/year) 🗓         | Topic   | Assignment / deadline | Presenters
-|--------------|-----------|------------|
+| Date (day/month/year) 🗓         | Topic   | Assignment / deadline | Presenters |
+|--------------|-----------|------------|------------|
 | 13/04/2023 | Introduction I - course information | /not applicable | M.E |
 | 20/04/2023 | Introduction II - Defining and measuring Intelligence | /not applicable | M.E |
 | 27/04/2023 | Introduction III - Methoden der Intelligenzforschung in der Neurowissenschaft | /not applicable | M.E |

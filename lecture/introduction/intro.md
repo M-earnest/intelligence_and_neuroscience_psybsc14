@@ -31,8 +31,8 @@ Haier, R. J. (2017). The neuroscience of intelligence. Cambridge University Pres
 
 ## Schedule
 
-| Date (day/month/year) 🗓         | Topic   | Assignment / deadline | Presenters
-|--------------|-----------|------------|
+| Date (day/month/year) 🗓         | Topic   | Assignment / deadline | Presenters |
+|--------------|-----------|------------|------------|
 | 13/04/2023 | Introduction I - course information | /not applicable | M.E |
 | 20/04/2023 | Introduction II - Defining and measuring Intelligence | /not applicable | M.E |
 | 27/04/2023 | Introduction III - Methoden der Intelligenzforschung in der Neurowissenschaft | /not applicable | M.E |

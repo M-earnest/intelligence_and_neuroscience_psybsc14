@@ -5,13 +5,11 @@
 This course aims to explore the relation between Intelligence and possible biological factors, such as brain size etc.
 This will be done in three course blocks that will necessarily build on each other.
 
+
 `1.Block: Introduction`
 
 In our introductory sessions II & III we will start off by discussing how intelligence is defined and measured, as well as which models of intelligence are commonly discussed. Following we will talk about different brain-imaging methods, that will provide the base for the neuroscientific exploration of intelligence and its correlates.
 
-list of content chapters
-- 
-- 
 
 `2.Block: The intelligent brain`
 
@@ -19,9 +17,6 @@ In the second block we will be exploring the structural and functional neural co
 
 The second block will be separated into 4 sessions, each session will start off with a general introduction to the topic and a short presentation that provides students with a working hypothesis or research question, that will followingly be discussed or otherwise be actively explored. The specifics of each session are dependent on the ideas of the presenting group, with assistance from the course instructors.
 
-list of content chapters
-- 
-- 
 
 `3.Block: Topics of interest`
 
@@ -29,9 +24,6 @@ While the first and second blocks established the foundations for our understand
 the third and last block will be dedicated to delving deeper into topics of interest. We will also be discussing the implications of biological research on intelligence for education and public policy.
 Students are welcome to provide ideas/recommendations on topics that they may want to explore.
 
-list of content chapters
-- 
-- 
 
 
 ### Structure
