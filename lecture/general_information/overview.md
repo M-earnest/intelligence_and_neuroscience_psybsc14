@@ -34,6 +34,11 @@ list of content chapters
 - 
 
 
+### Structure
+
+The course will either be presented as per usual via students presentation or as an inverted classroom design, where most of the work (i.e. reading) is done before the actual session, which then will consist of a short introductory presentation on the topic at hand followed by periods of discussion or related activities.
+
+
 ### TL;DR
 
 Within this course we will explore the concept of human intelligence from a neuroscientific perspective, specifically how intelligence can be conceptualized using neurocognitive models and brain-imaging methods. To do so, we will follow a 3 Block design (Intoduction/Basics/specific topics). Each course session will be prepared by a group of presenting studenst with the assistance of the instructors.
