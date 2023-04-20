@@ -7,10 +7,9 @@ chapters:
   sections:
   - file: introduction/intro_I
   - file: introduction/intro_II
-  - file: introduction/intro_III
 - file: content/intro_content
   sections:
-  - file: content/static_content.md
+  - file: content/intro_neuroanatomy.md
 - file: general_information/CoC
 - file: general_information/dei
 - file: ressources/ressources

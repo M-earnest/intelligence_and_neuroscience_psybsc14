@@ -5,27 +5,19 @@ In the first block of this course we will focus on the basic knowledge that we'l
 
 
 
-## Goals 📍
-- Learn about X
-    - What?
-    - How?
- 
-- Ask and answer questions
-
-
-
 ## Materials 
 
 
-Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
+<iframe src="https://docs.google.com/presentation/d/1D1aSsh7n6Tkm6Qo709W806OhJnIn3MJLJh62blsF7zs/edit?usp=sharing" frameborder="0" width="700" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
-- Chapter 1: Defining and Measuring Intelligence
-- mind. 1 Frage zum Text vorbereiten o. 1-Satz Kritik am verwendeten Intelligenzbegriff
+
+</br>
+</br>
+
+Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
 
 
 Haier, R. J. (2017). The neuroscience of intelligence. Cambridge University Press.
-
-- Chapter 1: What We Know About Intelligence From the Weight of Studies
 
 
 
