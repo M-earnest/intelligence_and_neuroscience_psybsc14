@@ -42,10 +42,10 @@ Within this course we will explore the concept of human intelligence from a neur
 
 The contact information of the instructors are as follows:
 
-[Name](Webseite)
+[Michael Ernst](https://github.com/M-earnest)
 
 - Office hours: upon request
-- E-mail: `e-mail@psych.uni-frankfurt.de`
+- E-mail: `Ernst@psych.uni-frankfurt.de`
 - preferred mode of contact: vie e-mail
 
 ```{admonition} How to address one another?
