@@ -25,9 +25,9 @@ Please see below for our current optimistic schedule. Depending on our progress,
 | 11/05/2023 | Hirnfunktionen & Intelligenz  | 05/05/2023 | ? |
 | 25/05/2023 | Impacts of genetics on intelligence  | 12/05/2023 | ? |
 | 01/06/2023 | Moderne neurokognitive Modelle der Intelligenz  | 26/05/2023 | ? |
-| 15/06/2023 | Gehirnjogging (?) & Intelligenz  | 02/06/2023 | ? |
-| 22/06/2023 | Pharmakologisches cognitive enhancement | 16/06/2023 | ? |
-| 29/06/2023 | Menschliche & künstliche Intelligenz | 23/06/2023 | ? |
-| 06/07/2023 | Implications of biological research on intelligence for education & public policy | 30/06/2023 | ? |
-| 13/07/2023 | Nachbesprechung; Fragerunde - Hausarbeit  | /not applicable | M.E |
+| 15/06/2023 | Gastvortrag; Angewandte kognitive Neurowissenschaft der Intelligenz  | /not applicable | Maren |
+| 22/06/2023 | Gehirnjogging (?) & Intelligenz  | 16/06/2023 | ? |
+| 29/06/2023 | Pharmakologisches cognitive enhancement | 23/06/2023 | ? |
+| 06/06/2023 | Menschliche & künstliche Intelligenz | 30/06/2023 | ? |
+| 13/07/2023 | Implications of biological research on intelligence for education & public policy | 07/07/2023 | ? |
 
