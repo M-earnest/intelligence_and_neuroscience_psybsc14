@@ -48,6 +48,8 @@ Within the first session we'll spend a fair amount talking about how to best def
 </br>
 </br>
 
+`Textbooks`
+
 Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
 
 - Chapter 1: Defining and Measuring Intelligence
@@ -69,7 +71,7 @@ Prepare an answer (+ citation) for your last homework question
  (max 2 sentences)
 
 
-Read:
+`Read:`
 Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
 - Chapter 3: Imaging the Intelligence of Humans
 
@@ -79,11 +81,11 @@ Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook
 
 </br>
 
-Presentation-template
+`Presentation-template`
 
 <iframe src="https://docs.google.com/presentation/d/1V6i2MJ7U8c_-8FV6dnlpjuCblLhL6ZHg_52lf7ruugE/edit?usp=sharing" frameborder="0" width="700" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
-Summary-template
+`Summary-template`
 
 -
 
@@ -91,17 +93,19 @@ Summary-template
 
 **Neuroanatomy:**
 
-[Brain atlas](https://julich-brain-atlas.de/atlas#)
-[Brain atlas fibre-structures]:(https://atlases.ebrains.eu/viewer/#/a:juelich:iav:atlas:v1.0.0:1/t:minds:core:referencespace:v1.0.0:a1655b99-82f1-420f-a3c2-fe80fd4c8588/p:juelich:iav:atlas:v1.0.0:4/@:0.2-4Fk_.-KlpS.0..-0-Tr.2_r2vv._i7zo.2-AeML..72qN..45RoO.BQg~.du2t~..1MC5/f:b08a7dbc-7c75-4ce7-905b-690b2b1e8957--d3ca8fe622051466a5cde547a11111ca )
+- [Brain atlas](https://julich-brain-atlas.de/atlas#)
 
-[Brain atlas - language-specific](https://gallantlab.org/brain-viewers/)
+- [Brain atlas fibre-structures](https://atlases.ebrains.eu/viewer/#/a:juelich:iav:atlas:v1.0.0:1/t:minds:core:referencespace:v1.0.0:a1655b99-82f1-420f-a3c2-fe80fd4c8588/p:juelich:iav:atlas:v1.0.0:4/@:0.2-4Fk_.-KlpS.0..-0-Tr.2_r2vv._i7zo.2-AeML..72qN..45RoO.BQg~.du2t~..1MC5/f:b08a7dbc-7c75-4ce7-905b-690b2b1e8957--d3ca8fe622051466a5cde547a11111ca)
+
+- [Brain atlas - language-specific](https://gallantlab.org/brain-viewers/)
 
 **Research tools:**
 
 Meta-analysis based tools for visualization:
 
-[Neuroquery](https://neuroquery.org/query?text=speech+processing+)
-[Neurosynth](https://neurosynth.org/)
+- [Neuroquery](https://neuroquery.org/query?text=speech+processing+)
+
+- [Neurosynth](https://neurosynth.org/)
 
 Literature-maps:
 [Researchrabbit](https://www.researchrabbit.ai/)
