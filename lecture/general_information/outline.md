@@ -21,13 +21,13 @@ Please see below for our current optimistic schedule. Depending on our progress,
 | 13/04/2023 | Introduction I - course information | /not applicable | M.E |
 | 20/04/2023 | Introduction II - Defining and measuring Intelligence | /not applicable | M.E |
 | 27/04/2023 | Introduction III - Methoden der Intelligenzforschung in der Neurowissenschaft | /not applicable | M.E |
-| 04/05/2023 | Neuroanatomie der Intelligenz  | 28/04/2023 | ? |
-| 11/05/2023 | Hirnfunktionen & Intelligenz  | 05/05/2023 | ? |
-| 25/05/2023 | Impacts of genetics on intelligence  | 12/05/2023 | ? |
-| 01/06/2023 | Moderne neurokognitive Modelle der Intelligenz  | 26/05/2023 | ? |
+| 04/05/2023 | Neuroanatomie der Intelligenz  | 02/05/2023 | Maria; Indra; Tobias |
+| 11/05/2023 | Hirnfunktionen & Intelligenz  | 08/05/2023 | Melissa; Kim; Svetlana |
+| 25/05/2023 | Impacts of genetics on intelligence  | 15/05/2023 | Petra; Jana; Amra  |
+| 01/06/2023 | Moderne neurokognitive Modelle der Intelligenz  | 29/05/2023 | Rakia; Annika, Lilly |
 | 15/06/2023 | Gastvortrag; Angewandte kognitive Neurowissenschaft der Intelligenz  | /not applicable | Maren |
-| 22/06/2023 | Gehirnjogging (?) & Intelligenz  | 16/06/2023 | ? |
-| 29/06/2023 | Pharmakologisches cognitive enhancement | 23/06/2023 | ? |
-| 06/06/2023 | Menschliche & künstliche Intelligenz | 30/06/2023 | ? |
-| 13/07/2023 | Implications of biological research on intelligence for education & public policy | 07/07/2023 | ? |
+| 22/06/2023 | Gehirnjogging (?) & Intelligenz  | 19/06/2023 | Rosa; Stella; Nadine |
+| 29/06/2023 | Pharmakologisches cognitive enhancement | 26/06/2023 | Elvira & Madeleine |
+| 06/06/2023 | Menschliche & künstliche Intelligenz | 03/07/2023 | Lena; Paula; Marie |
+| 13/07/2023 | Implications of biological research on intelligence for education & public policy | 10/07/2023 | Philip; Arno; Fabian |
 

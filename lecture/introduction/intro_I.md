@@ -24,7 +24,7 @@ Within the first session we'll spend a fair amount talking about how to best def
 
 ## Block overview
 
-| Date (day/month/year) 🗓         | Topic   | Assignment / deadline | Presenters |
+| Date (day/month/year) 🗓  | Topic   | Assignment / deadline | Presenters |
 |--------------|-----------|------------|------------|
 | 13/04/2023 | Introduction I - course information | /not applicable | M.E |
 | 20/04/2023 | Introduction II - Defining and measuring Intelligence | /not applicable | M.E |
@@ -87,7 +87,8 @@ Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook
 
 `Summary-template`
 
--
+-<iframe src="https://docs.google.com/document/d/1ujZ_nIct4xQGMNaWWHHwOy2VpLXF__Eb5BzWhsmFYuY/edit?usp=sharing" frameborder="0" width="700" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+
 
 ## additional resources
 
