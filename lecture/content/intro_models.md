@@ -23,7 +23,11 @@ Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook
 
 Duncan, J., Assem, M., & Shashidhara, S. (2020). Integrated intelligence from distributed brain activity. Trends in Cognitive Sciences, 24(10), 838-852.
 
+Derzeitige plausiblste Modelle:
+
 Barbey, A. K. (2018). Network neuroscience theory of human intelligence. Trends in cognitive sciences, 22(1), 8-20.
+
+Euler, M. J. (2018). Intelligence and uncertainty: Implications of hierarchical predictive processing for the neuroscience of cognitive ability. Neuroscience & Biobehavioral Reviews, 94, 93-112.
 
 
 ## Project related work
