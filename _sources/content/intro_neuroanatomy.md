@@ -19,45 +19,7 @@
 
 ## Kurzzusammenfassung
 
-### 1. Abstract:
-
-Dieser Artikel gibt einen umfassenden Überblick über die Neuroanatomie der Intelligenz. Beginnend mit den Anfängen dieser Forschungsrichtung, als man Intelligenz mit einem Maßband um den Kopf zu messen versuchte, über bildgebende Verfahren wie PET oder MRT, durch die man das Gehirn nun präziser erforschen konnte, hin zu wichtigen Theorien wie der P-FIT, die Intelligenz vor allem in der frontalen und parietalen Region verortet und wie der heutige Stand der Forschung diese Theorien stützt. 
-
- 
-### 2. Introduction:
-
-Die Neuroanatomie der Intelligenz ist ein faszinierendes Forschungsgebiet, das sich mit der Beziehung zwischen der Struktur und Funktion des Gehirns und der menschlichen Intelligenz befasst. Diese Forschung hat in den letzten Jahrzenten massive Fortschritte gemacht, was u.a. der Entdeckung von nicht-invasiven Methoden wie dem MRT zu schulden ist. 
- Die Geschichte der Neuroanatomie der Intelligenz reicht bis ins 19. Jahrhundert zurück. Zu dieser Zeit war es üblich, Gehirnvolumen und universitäre Leistungen mit Intelligenz zu korrelieren: „Bigger is Better“ war der Status quo. Nach dieser Theorie müsste Albert Einstein ein überdurchschnittlich großes Gehirn haben. Eine Sezierung seines Gehirns konnte aber keine signifikante Abweichung vom durchschnittlichen Gehirnvolumen finden (Pietschnig et al., 2015). Doch keiner bezweifelt, dass Albert Einstein mit einer überdurchschnittlichen Intelligenz gesegnet war. „Bigger is Better“ reicht also nicht, man musste der Sache genauer auf den Grund gehen. Bildgebende Verfahren wie die Positronen-Emissions-Tomographie (PET) oder die Magnet-Resonanz-Tomographie (MRT) ermöglichten dies. Anstatt das Gesamtvolumen des Gehirns zu betrachten, konnte man sich nun spezifische Areale und deren Aktivierung genauer anschauen. Aus den Ergebnissen verschiedener Studien, die bildgebende Verfahren angewandt haben, entstand auch eine der meistzitierten Theorien in dem Bereich: die P-FIT (Parieto-Frontal Integration Theory). Diese besagt, dass Intelligenz auf Integration und Koordination, insbesondere der parietalen und frontalen Gehirnregionen, beruht (Jung & Haier, 2007).  Ein Verdienst dieser Theorie war, dass sie einen Anstoß für weitere Forschung zur Beantwortung der Frage „Wo im Gehirn befindet sich Intelligenz?“ gegeben hat. Bis heute wird an dieser Frage geforscht. Ziel dieses Artikels ist es, zumindest Ansätze einer Antwort auf diese Frage zu liefern. Dazu wird im Weiteren auf die Ergebnisse der Metaanalyse von Pietschning et al. (2015), Basten et al. (2015) und Santarnecchi et al. (2017) eingangen.
-
-### 3.1 Methods:
-Um ein ausreichendes Verständnis der folgenden Ergebnisse zu gewährleisten, ist es wichtig, die Grundlagen der Methodik der Intelligenzforschung zu kennen. In der Forschung der Neuroanatomie gibt es einen grundlegenden Unterschied in den Forschungsmethoden: strukturell vs. funktionell. Zu den strukturellen Methoden zählt der sMRT, ein statisches bildgebendes Verfahren, und voxel-based morphometry (VBM), welches die Zusammensetzung des Gehirns z.B. graue Masse darstellen kann. Strukturelle Verfahren sind eher dazu da, sich mit der Struktur des Gehirns vertraut zu machen, während funktionelle Verfahren Gehirnaktivität sichtbar machen. Zu diesen Verfahren zählen PET und fMRT. In diesem Fall wurden sowohl die genannten strukturellen als auch funktionellen bildgebenden Verfahren angewandt. 
-
-### 3.2. Results:
-
-### 3.2.1. Pietsching et al. (2015)
-
-Die Metaanalyse von Pietschnig et al. (2015) fand heraus, dass Gehirnvolumen und der “Full Scale IQ”  zu r = .24 korrelieren. Wenn der IQ mit dem WAIS gemessen wurde, war der gefundene Zusammenhang größer.  Im Gegensatz zu vorherigen Metaanalysen fand man keine signifikanten Unterschiede bzgl. Geschlecht oder Alter der Probanden. Jung & Haier (2007) konnten die Annahmen der P-FIT Theorie in zahlreichen Studien wiederfinden. So implizierten 40% der strukturellen Studien einen Zusammenhang zwischen den BA 10, 39 und 40 mit der Leistung im WAIS. Die okzipitale Region v.a. BA 18 und 19 war mit 30-40% konsistent vertreten (siehe Tabelle 1). 
-Tabelle 1: Ergebnisse der Metaanalyse zu 37 bildgebenden Studien
-
-Generell fanden verschiedene Studien eine positive Assoziation zwischen grauer und weißer Substanz, und Intelligenz. Nicht so klare Ergebnisse gab es zur Cortical Thickness, die zwar in einigen Studien positive Assoziationen mit Intelligenz zeigt, in anderen aber sogar negative (Tadayon, Pascual-Leone, & Santarnecchi, 2019; Tamnes et al., 2011).  
-
-### 3.2.2 Basten et al.
-
-In der Metaanalyse von Basten und Kolleg*innen (2015) wurden funktionelle und strukturelle Zusammenhänge mit Intelligenz untersucht. Ein Überblick über die Ergebnisse ist in Abbildung 1 dargestellt. Die Ergebnisse der funktionellen Zusammenhänge mit Intelligenz ermittelt mittels fMRT fallen gemischter aus und lassen auf eine höhere Aktivierung von parietalem und temporalem Kortex, höhere oder niedrigere Aktivierung von präfrontalem Kortex, cingulärem Kortex und (pre-)supplementären motorischen Areal und eine niedrigere Aktivierung der Insula bei intelligenteren Menschen schließen. Aus den Ergebnissen der strukturellen Analyse mittels VBM-Daten ergibt sich eine erhöhte Aktivierung von präfrontalem Kortex, frontopolarem Kortex, temporalem Kortex, okkzipitalem Kortex, (pre-) supplementärem Areal, Precuneus bzw. posteriorem cingulärem Kortex und subkortikalen Regionen bei intelligenteren Menschen. Die Ergebnisse dieser Metaanalyse unterstützen die P-FIT bis zu einem gewissen Grad, da die die meisten der postulierten Hirnareale Auffälligkeiten zeigten, jedoch kann durch die Theorie nicht erklärt werden, warum auch subkortikale Region sich als signifikant erwiesen und es zeigten sich gerade im Temporal- und Okkzipitallappen Abweichungen.
-
-
-Abbildung 1. Funktionelle und strukturelle Zusammenhänge mit Intelligenz
-
-
-
-### 3.2.3 Santarnecchi et al. (2017)
-In der Metaanalyse von Santarnecchi und Kolleg*innen (2017) wurde die fluide Intelligenz gezielt auf neuroanatomische Zusammenhänge untersucht. Eine Zusammenfassung der Ergebnisse bietet Abbildung 2. Neben allgemeinen funktionellen Korrelaten der fluiden Intelligenz wurden außerdem aktivierte Areale bei anspruchsvolleren Aufgaben (HC: higher complexity), bei visuell-räumlichen Aufgaben (vsGf: visuospatial) und verbalen Aufgaben (vGf: verbal), bei rule inference (RI) und rule application (RA) betrachtet. Obwohl bei allen Analysen auch vermehrt die Areale erhöhte Aktivierung zeigten, die von der P-FIT postuliert wurden, zeigen sich nichtsdestotrotz Abweichungen von den postulierten Arealen (z.B. durch eine erhöhte Aktivierung von subkortikalen Strukturen) und Abweichungen der Aktivierungsmuster bei den verschiedenen Aufgaben untereinander (z.B. verschiedene Aktivierungsmuster bei visuell-räumlichen und verbalen Aufgaben). Die Autor*innen schlussfolgern daraus, dass eine Anpassung der P-FIT zur Erklärung der Ergebnisse notwendig sei oder verschiedene Netzwerke und entsprechende Theorien für verschiedene Aufgaben verwendet werden müssten.
-
-Abbildung 2. Aktivierte Areale bei verschiedenen Aspekten der fluiden Intelligenz
-
-
-### 4. Discussion:
-Bezüglich der klassischen Theorie „Bigger is Better“ zeigten Pietschnig et al. (2015) einen Zusammenhang zwischen Gehirnvolumen und Intelligenz. Trotzdem kann man damit interindividuelle Unterschiede in Intelligenz nicht erklären, da 84% der Varianz immer noch von anderen Faktoren beeinflusst werden. Blickt man hingegen auf die neuere P-FIT, hält sich die Grundidee der Theorie auch nach Hinzunahme aktueller neuroanatomischer Befunde, jedoch zeigten sich auch genug Abweichungen, um zumindest für eine Überarbeitung der Theorie zu plädieren. Es ist jedoch anzumerken, dass alle Metaanalysen, die zur Untersuchung der Aktualität der P-FIT genutzt wurden, dem Problem unterliegen, dass durch ungenaue Messungen innerhalb der ihnen zugrundliegenden Studien Scheinkorrelationen zustande kommen können (sowohl zu starke Korrelationen als auch nicht vorhandene), sodass auch diese Ergebnisse nicht ohne Vorsicht in den aktuellen Stand der Forschung integriert werden können. Bis also genaue Ergebnisse vorliegen, bietet die P-FIT also zumindest im Groben einen guten Überblick auf die Neuroanatomie der Intelligenz.
+-<iframe src="https://docs.google.com/document/d/1c6bnrg9h2eZEMhCeCzdoPuMh4j8jN8U2/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  
 ### 5. Literature:
 Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
