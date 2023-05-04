@@ -25,5 +25,5 @@ chapters:
 - file: general_information/dei
 - file: resources/ressources
   sections:
-  - file resources/eeg_introduction
+  - file: resources/eeg_introduction
 
