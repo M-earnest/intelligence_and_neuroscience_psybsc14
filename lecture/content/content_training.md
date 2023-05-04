@@ -1,4 +1,4 @@
-# Neuroanatomie der Intelligenz
+# Gehirnjogging (?) & Intelligenz
 
 
 
@@ -17,22 +17,17 @@
 
 ## Materials
 
-Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
+Strobach, T., & Kupferberg, A. (2021). Commercial Brain Training. Cognitive Training: An Overview of Features and Applications, 289-305.
 
-Chapter 11: Structural Brain Imaging of Intelligence (stefan drakulich and sherif karama)
+Strobach, T., Karbach, J., & Strobach. (2016). Cognitive training. New York, NY: Springer.
 
-Übersichtsarbeiten:
+Buschkuehl, M., & Jaeggi, S. M. (2010). Improving intelligence: A literature review. Swiss medical weekly, 140(1920), 266-272.
 
-Basten, U., Hilger, K., & Fiebach, C. J. (2015). Where smart brains are different: A quantitative meta-analysis of functional and structural brain imaging studies on intelligence. Intelligence, 51, 10-27.
+Should be discussed, but not focus:
 
-Santarnecchi, E., Emmendorfer, A., & Pascual-Leone, A. (2017). Dissecting the parieto-frontal correlates of fluid intelligence: A comprehensive ALE meta-analysis study. Intelligence, 63, 9-28.
+Brinch, C. N., & Galloway, T. A. (2012). Schooling in adolescence raises IQ scores. Proceedings of the National Academy of Sciences, 109(2), 425-430.
 
-
-Best etablierte Befund:
-Pietschnig, J., Penke, L., Wicherts, J. M., Zeiler, M., & Voracek, M. (2015). Meta-analysis of associations between human brain volume and intelligence differences: How strong are they and what do they mean?. Neuroscience & Biobehavioral Reviews, 57, 411-432.
-
-Meist zitiertes Modell der neurokognitiven Intelligenz:
-Jung, R. E., & Haier, R. J. (2007). The Parieto-Frontal Integration Theory (P-FIT) of intelligence: converging neuroimaging evidence. Behavioral and brain sciences, 30(2), 135-154.
+Te Nijenhuis, J., Voskuijl, O. F., & Schijve, N. B. (2001). Practice and coaching on IQ tests: Quite a lot of g. International Journal of Selection and Assessment, 9(4), 302-308.
 
 
 ## Project related work
