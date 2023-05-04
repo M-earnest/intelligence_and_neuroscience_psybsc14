@@ -15,7 +15,7 @@ chapters:
   - file: content/intro_models
 - file: content/intro_enhancement
   sections:
-  - file: content/content_trainig
+  - file: content/content_training
   - file: content/content_enhancement
 - file: content/intro_selected_topics
   sections:
