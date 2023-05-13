@@ -65,5 +65,21 @@ Jung, R. E., & Haier, R. J. (2007). The Parieto-Frontal Integration Theory (P-FI
 ## tasks for subsequent meeting/Homework
 
 
+1. Find your group (or don’t) based on which video you watched
+2. compare/rethink questions
+3. come up with one well worded question for one speaker (Krebs, Gallant, Gauthier) 
+    - ideally shouldn’t be easy to answer by yourself; can be related to opinions, future work, other applications etc.
+4. Draft an E-mail to the respective speaker and send it to Ernst@psych
+
+`Deadline: 19.05.23`
+
+`Next Session`:
+
+`Lesen:`
+Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
+Chapter 12: Functional Brain Imaging of Intelligence
+
+
+
 ## additional resources
 

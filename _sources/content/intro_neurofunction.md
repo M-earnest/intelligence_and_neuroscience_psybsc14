@@ -63,12 +63,22 @@ Intelligence, 51, 10-27.
 ## tasks for subsequent meeting/Homework
 
 
+`Lesen:`
+
+Haier, R. J. (2017). The neuroscience of intelligence. Cambridge University Press.
+- Chapter 2: Nature More than Nurture: The Impact of Genetics on Intelligence
+
+`Überfliegen:`
+Plomin, R., & Deary, I. J. (2015). Genetics and intelligence differences: five special findings. Molecular psychiatry, 20(1), 98-108.
+- Fragen zu Methodik/Messgegenstand?
+
+Basten, U., Stelzel, C., & Fiebach, C. J. (2013). Intelligence is differentially related to neural effort in the task-positive and the task-negative brain network. Intelligence, 41(5), 517-528.
+- Fokus auf Diskussion & Verständnis interagierender Netzwerke; Verständnisfragen für nächste Sitzung
+
+
 
 ## optional/reading/further materials
 
 
 ## additional resources
-
-
-## Literature
 
