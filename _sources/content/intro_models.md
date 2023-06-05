@@ -17,6 +17,15 @@
 
 ## Materials
 
+
+<iframe src="https://docs.google.com/presentation/d/144E_z-uKy7uMgiufNcqhkyL3Lrd4V6gz/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Kurzzusammenfassung
+
+<iframe src="https://docs.google.com/document/d/17IEPyPNY8Ld-eljlU00pM3yB3T5Nx5Od/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ 
+## Literature
+
 Barbey, A. K., Karama, S., & Haier, R. J. (Eds.). (2021). The Cambridge handbook of intelligence and cognitive neuroscience. Cambridge University Press.
 - Chapter 5: Evaluating the Weight of the Evidence: Cognitive Neuroscience Theories of Intelligence
 - Chapter 6: Human Intelligence and Network Neuroscience
