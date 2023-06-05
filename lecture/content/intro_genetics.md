@@ -28,7 +28,7 @@
 
 ## Kurzzusammenfassung
 
-<iframe src="[https://docs.google.com/document/d/1c6bnrg9h2eZEMhCeCzdoPuMh4j8jN8U2/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true](https://docs.google.com/document/d/1j6yHxrVkqX_G4OAzGz2mGYOhedFqHIgi/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true)" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/document/d/1c6bnrg9h2eZEMhCeCzdoPuMh4j8jN8U2/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
