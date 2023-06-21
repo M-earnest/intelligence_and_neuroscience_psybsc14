@@ -17,6 +17,16 @@
 
 ## Materials
 
+
+
+## Kurzzusammenfassung
+
+<iframe src="https://docs.google.com/document/d/17IEPyPNY8Ld-eljlU00pM3yB3T5Nx5Od/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+## Literature
+
+
 Strobach, T., & Kupferberg, A. (2021). Commercial Brain Training. Cognitive Training: An Overview of Features and Applications, 289-305.
 
 Strobach, T., Karbach, J., & Strobach. (2016). Cognitive training. New York, NY: Springer.
