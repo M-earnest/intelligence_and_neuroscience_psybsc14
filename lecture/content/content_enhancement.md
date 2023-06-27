@@ -10,13 +10,16 @@
 
 ## Objectives 📍
 
-- 
-- Ask and answer questions
-- Have a great time
-
-
 ## Materials
 
+
+
+
+## Kurzzusammenfassung
+
+<iframe src="https://docs.google.com/document/d/10YIqojOguAA9vTN5fYh5JY8wz24ZFzQh/edit?usp=sharing&ouid=108122900663902144880&rtpof=true&sd=true" frameborder="0" width="600" height="1070" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Literature
 
 Sahakian, B. J., & Morein-Zamir, S. (2011). Neuroethical issues in cognitive enhancement. Journal of Psychopharmacology, 25(2), 197-204.
 
